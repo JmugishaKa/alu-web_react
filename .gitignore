@@ -1,5 +1,17 @@
 # Dependencies
 node_modules/
+
 # Compiled output
 dist/
+build/
+coverage/
+.cache/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
 build/
